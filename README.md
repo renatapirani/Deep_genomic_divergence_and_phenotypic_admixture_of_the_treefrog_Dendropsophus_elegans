@@ -30,16 +30,27 @@ Estimation of geographic barriers and gene flow
 
 Demographic migration model for Dendropsophus elegans populations
 . doce_M_MSFS.obs: site frequency spectrum (SFS) for the minor allele for each population sample for the Doce River
+
 . doce_M.est: prior and rules for the migration model for the Doce River
+
 . doce_M.tpl: estimated parameters for the Doce River
+
 . guacu_M_MSFS.obs: site frequency spectrum (SFS) for the minor allele for each population sample for the Paraguaçu River
+
 . guacu_M.est: prior and rules for the migration model for the Paraguaçu River
+
 . guacu_M.tpl: estimated parameters for the Paraguaçu River
+
 . para_M_MSFS.obs: site frequency spectrum (SFS) for the minor allele for each population sample for the Paraíba do Sul River
+
 . para_M.est: prior and rules for the migration model for the Paraíba do Sul River
+
 . para_M.tpl: estimated parameters for the Paraíba do Sul River
+
 . ribeira_M_MSFS.obs: site frequency spectrum (SFS) for the minor allele for each population sample for the Ribeira do Iguape River
+
 . ribeira_M.est: prior and rules for the migration model for the Ribeira do Iguape River
+
 . ribeira_M.tpl: estimated parameters for the Ribeira do Iguape River
 
 
