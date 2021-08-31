@@ -1,2 +1,0 @@
-[README.txt](https://github.com/renatapirani/Deep_genomic_divergence_and_phenotypic_admixture_of_the_treefrog_Dendropsophus_elegans/files/7085579/README.txt)
-# Deep_genomic_divergence_and_phenotypic_admixture_of_the_treefrog_Dendropsophus_elegans
