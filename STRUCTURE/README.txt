@@ -1,0 +1,1 @@
+.ustr input files used to evaluate populations structure within Dendropsophus elegans species using the program STRUCTURE version 2.3.4
