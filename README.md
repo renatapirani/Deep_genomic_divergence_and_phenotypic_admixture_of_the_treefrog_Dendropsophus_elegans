@@ -5,8 +5,7 @@ Phylogeography and Population genetics in South America
 
 Scripts and input files for the analyses used in the manuscript submitted at the Frontiers in Ecology and Evolution:
 
-Pirani, R.M., Tonini, J.F.R., Thomaz, A.T., Napoli, M.F., Encarnação, L., Knowles, L.L., Werneck, F.P.
-Deep genomic divergence and phenotypic admixture of the treefrog Dendropsophus elegans (Hylidae: Amphibia) coincide with riverine boundaries at the Brazilian Atlantic Forest
+PIRANI, R. M., TONINI, J. F. R., THOMAZ, A. T., NAPOLI, M., KNOWLES, L. L., WERNECK, F. P. Deep genomic divergence and phenotypic admixture of the treefrog Dendropsophus elegans (Hylidae: Amphibia) coincide with riverine boundaries at Brazilian Atlantic Forest. Frontiers Ecology and Evolution. 2022; (10) 1-15.
 
 
 Input files for the analyses presented in the manuscript.
